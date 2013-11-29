@@ -13,10 +13,10 @@ background: transparent url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAA
 -moz-appearance: none !important; 
 background-color: transparent !important;
 opacity: .75 !important;
-min-width: 9px !important;
-max-width: 9px !important;
-margin-top: 150px !important;
-margin-bottom: 150px !important;
+min-width: 11px !important;
+max-width: 11px !important;
+/* margin-top: 150px !important; */
+/* margin-bottom: 150px !important; */
 }
 
 /*CAN CHANGE SCROLLBAR WIDTH FROM Default 17px (MUST CHANGE BOTH min-width and max-width to exact same px */
@@ -26,8 +26,8 @@ scrollbar[orient="vertical"]:hover
 opacity: 1 !important;
 -moz-appearance: none !important; 
 background-color: transparent !important;
-min-width: 9px !important;
-max-width: 9px !important;
+min-width: 11px !important;
+max-width: 11px !important;
 }
 /************************************************************************/
 
@@ -42,8 +42,8 @@ background: transparent url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAA
 
 -moz-appearance: none !important; 
 -moz-border-radius: 4px !important;
-min-width: 8px !important;
-max-width: 8px !important;
+min-width: 10px !important;
+max-width: 10px !important;
 border: 1px !important;
 }
 
@@ -73,10 +73,10 @@ background: transparent url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAA
 -moz-appearance: none !important; 
 background-color: transparent !important;
 opacity: .75 !important;
-min-height: 9px !important;
-max-height: 9px !important;
-margin-left: 450px !important;
-margin-right: 450px !important;
+min-height: 11px !important;
+max-height: 11px !important;
+/* margin-left: 450px !important; */
+/* margin-right: 450px !important; */
 }
 
 
@@ -87,10 +87,10 @@ scrollbar[orient="horizontal"]:hover
 opacity: 1 !important;
 -moz-appearance: none !important; 
 background-color: transparent !important;
-min-height: 9px !important;
-max-height: 9px !important;
-margin-left: 450px !important;
-margin-right: 450px !important;
+min-height: 11px !important;
+max-height: 11px !important;
+/* margin-left: 450px !important; */
+/* margin-right: 450px !important; */
 }
 
 
@@ -105,8 +105,8 @@ background: transparent url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAA
 
 -moz-appearance: none !important; 
 -moz-border-radius: 4px !important;
-min-height: 8px !important;
-max-height: 8px !important;
+min-height: 10px !important;
+max-height: 10px !important;
 border: 1px !important;
 margin-left: 0px !important;
 }
